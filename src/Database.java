@@ -134,13 +134,13 @@ public class Database
 		System.out.println("dino = "  + contestantScores[5]);
 		System.out.println("quain = "  + contestantScores[6]);
 		
-		contestantScores[0] = 0;
-		contestantScores[1] = 0;
-		contestantScores[2] = 0;
-		contestantScores[3] = 0;
-		contestantScores[4] = 0;
-		contestantScores[5] = 0;
-		contestantScores[6] = 0;
+//		contestantScores[0] = 0;
+//		contestantScores[1] = 0;
+//		contestantScores[2] = 0;
+//		contestantScores[3] = 0;
+//		contestantScores[4] = 0;
+//		contestantScores[5] = 0;
+//		contestantScores[6] = 0;
 		
 	}
 }
